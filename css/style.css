@@ -13,7 +13,7 @@ body {
 .wrapper {
   background: #ffffff;
   display: flex;
-  max-width: 1200px;
+  max-width: 1000px;
 }
 
 .sidebar {
